@@ -1,6 +1,6 @@
 ## Hello Word!!! :earth_americas:
 
-You can use the [editor on GitHub](https://github.com/sttefanie/sttefanie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Me chamo Alcelina Sttefanie de Souza e tenho 27 anos, atualmente sou acadêmica do 3º período na graduação em Tecnologia do Sistema Da Informação na universidade Cruzeiro do Sul e estudo programação na [trybe](https://www.betrybe.com/) [editor on GitHub](https://github.com/sttefanie/sttefanie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
