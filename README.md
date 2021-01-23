@@ -1,6 +1,15 @@
 :zap:  **Sttefanie Maciel** :zap:
 
 
+####          **Hello Word!!** 	:earth_americas:
+
+---
+
+---
+>
+   :house: Atualmente moro na cidade de São Paulo - SP.
+
+ :woman_student: Estudante de programação Web Full Stack - Trybe
 
 <!--
 **sttefanie/sttefanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
