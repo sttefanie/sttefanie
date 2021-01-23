@@ -14,6 +14,11 @@
 <!--
 **sttefanie/sttefanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p>
+  Primeira linha do parágrafo.<br />
+  Segunda linha do parágrafo.
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
