@@ -11,6 +11,11 @@
 
  :woman_student: Estudante de programação Web Full Stack - Trybe
 
+
+
+
+
+  > > > > ...**Look for everything that motivates you to be better**.... 
 <!--
 **sttefanie/sttefanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
