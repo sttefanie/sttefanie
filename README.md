@@ -11,27 +11,11 @@
 
  :woman_student: Estudante de programação Web Full Stack - Trybe
 
-
+:woman_student: Acadêmica em Sistemas Da Informação - Cruzeiro Do Sul.
 
 
 
   > > > > ...**Look for everything that motivates you to be better**.... 
-<!--
-**sttefanie/sttefanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p>
-  Primeira linha do parágrafo.<br />
-  Segunda linha do parágrafo.
-</p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ 
+ __[Linkedin](https://www.linkedin.com/in/maciel-sttefanie/)__ 
