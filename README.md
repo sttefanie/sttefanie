@@ -5,7 +5,7 @@
 
    :house: Atualmente moro na cidade de São Paulo - SP.
 
- :woman_student: Estudante de programação Web Full Stack - Trybe.
+ :woman_student: Engenheira Full Stack - Itaú Unibanco.
 
 :woman_student: Acadêmica em Sistemas Da Informação - Cruzeiro Do Sul.
 
