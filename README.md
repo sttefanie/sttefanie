@@ -5,9 +5,13 @@
 
    :house: Atualmente moro na cidade de São Paulo - SP.
 
- :woman_student: Engenheira Full Stack - Itaú Unibanco.
+ :woman_student: Engenheira Full Stack Pleno - Itaú Unibanco.
 
-:woman_student: Acadêmica em Sistemas Da Informação - Cruzeiro Do Sul.
+:woman_student: Formada em Sistemas Da Informação - Cruzeiro Do Sul.
+
+
+
+
 
   > > > > ...**Look for everything that motivates you to be better**.... 
  
